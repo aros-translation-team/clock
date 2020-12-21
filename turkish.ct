@@ -1,10 +1,10 @@
 ## version $VER: clock.catalog 2.0 (16.12.2020)
-## language tÃ¼rkÃ§e
+## language türkçe
 ## codeset 0
 ;
 ;
 MSG_ERROR_CANT_CREATE_APPLICATION
-Hata: Uygulama nesnesi oluÅŸturulamÄ±yor.
+Hata: Uygulama nesnesi oluºturulam¹yor.
 ; Error: Can't create application object.
 ;
 MSG_WINDOW_TITLE
@@ -20,6 +20,6 @@ Tamam
 ; Ok
 ;
 MSG_ERROR_DISKOBJECT
-Hata: Disk nesnesi oluÅŸturulamÄ±yor
+Hata: Disk nesnesi oluºturulam¹yor
 ; Error: Can't create diskobject
 ;
